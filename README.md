@@ -1,6 +1,6 @@
 # Mountain Project - Climbing Community Website Analysis
 * Written by: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/)
-* Technologies:
+* Technologies: SQL Server, Tableau
 ## 1. Introduction
 
 ## 2. data aggregation and manipulation in SQL
