@@ -7,7 +7,7 @@ As a member in the climbing and mountaineering community (both in Thailand and U
 In this project, the raw data contain many issues that are required to be addressed with SQL data manipulation/transformation, as follows.
 * A large amount of null values in multiple fields
 * Improper decimal places and units
-* Uninterpretable categorical data such as in Route_type field
+* Categorical data that are too varied to be analysed such as Route_type field
 * Outliers / errors such as impossible length, impossible number of pitches
 * Duplicated records (As users may share the same route as others')
 * Long field with separators (require to use STRING_SPLIT instead of the more user-friendly function: PARSENAME)
