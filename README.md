@@ -31,7 +31,7 @@ The dashboard provides the key findings as follows: (for example)
 * Tableau dashboard is pulished in [Tableau public link](https://public.tableau.com/shared/74XPCMHWD?:display_count=n&:origin=viz_share_link)
 * The data manipulation is perfomed by this [SQL query](https://github.com/PoonAthitS/mountain-project-website-analysis/blob/main/sql_query_mountain_project.sql)
 ### 4.2 Data
-The Raw data are gather from [Kaggle Mountain Project dataset](https://www.kaggle.com/pdegner/mountain-project-rotues-and-forums) which is scraped from Mountain Project website in 2020 by Patricia. Please check out her [GitHub project](https://github.com/pdegner/MP_Sentiment_Analysis) which is about analyzing the sentiment of the forums on www.MountainProject.com to determine which climbing gear is thought to be the best
+The Raw data are gathered from [Kaggle Mountain Project dataset](https://www.kaggle.com/pdegner/mountain-project-rotues-and-forums) which is scraped from Mountain Project website in 2020 by Patricia. Please check out her [GitHub project](https://github.com/pdegner/MP_Sentiment_Analysis) which is about analyzing the sentiment of the forums on www.MountainProject.com to determine which climbing gear is thought to be the best
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
 
