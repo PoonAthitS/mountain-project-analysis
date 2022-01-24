@@ -1,4 +1,4 @@
-# Mountain Project - Climbing Community Website Analysis
+## Mountain Project - Climbing Community Website Analysis
 * Written by: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/)
 * Technologies: SQL Server, Tableau
 ## 1. Introduction
