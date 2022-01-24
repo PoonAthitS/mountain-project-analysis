@@ -3,7 +3,7 @@
 * Technologies: SQL Server, Tableau
 ## 1. Introduction
 
-## 2. data aggregation and manipulation in SQL
+## 2. data manipulation in SQL
 
 ## 3. Tableau dashboard and key findings
 
