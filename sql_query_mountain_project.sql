@@ -101,7 +101,7 @@ SELECT *
 	INTO dbo.mp_table_draft
 FROM mp_table_CTE1;
 -----------------------------------------------------------------------------------
--- [CREATE FINAL TABLE] Create a new transformed table (dbo.mp_table) for tableau dashboard
+-- [FINAL TABLE] Create a new transformed table (dbo.mp_table) for tableau dashboard
 SELECT 
 	-- Select initial usable cols
 	Route, Pitches, num_votes
