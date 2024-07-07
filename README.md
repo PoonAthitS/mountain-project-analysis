@@ -2,7 +2,7 @@
 * Written by: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/)
 * Technologies: SQL Server, Tableau
 ## 1. Introduction
-As a member in the climbing and mountaineering community (both in Thailand and UK), I have spent a lot of my time on Mountain Project website which is one of the largest websites about the climbing-related topics. It serves as a guidebook or climbing information database with more than 100k climbing routes across the globe. As a data analyst, this piques my curiosity about relationship between variety of climbing-related data from the website such as number of routes, route height, difficulty grades, etc. Therefore, this project aims to process the raw data in SQL Server and present the insights in [Tableau dashboard.](https://public.tableau.com/shared/74XPCMHWD?:display_count=n&:origin=viz_share_link) <br />
+As a member in the climbing and mountaineering community (both in Thailand and UK), I have spent a lot of my time on Mountain Project website which is one of the largest websites about the climbing-related topics. It serves as a guidebook or climbing information database with more than 100k climbing routes across the globe. As a data analyst, this piques my curiosity about relationship between variety of climbing-related data from the website such as number of routes, route height, difficulty grades, etc. Therefore, this project aims to process the raw data in SQL Server and present the insights in Tableau Dashboard. <br />
 ## 2. data manipulation in SQL
 In this project, the raw data contain many issues that are required to be addressed with SQL data manipulation/transformation, as follows.
 * A large amount of null values in multiple fields
@@ -13,7 +13,7 @@ In this project, the raw data contain many issues that are required to be addres
 * Long field with separators (require to use STRING_SPLIT instead of the more user-friendly function: PARSENAME)
 * Special conditions in Location field which its values are different when the route is in USA 
 ## 3. Tableau dashboard and key findings
-The database in SQL Server is then loaded to Tableau to develop an interactive dashboard: [Mountain Project - Climbing Community Website Analysis](https://public.tableau.com/shared/74XPCMHWD?:display_count=n&:origin=viz_share_link) as depicted in the image below.
+The database in SQL Server is then loaded to Tableau to develop an interactive dashboard as depicted in the image below.
 <br /> <br />
 <img src="https://github.com/PoonAthitS/mountain-project-website-analysis/blob/main/Dashboard%20Mountain%20Project%20-%20Climbing%20Community%20Website%20Analysis.png?raw=true" width="800">
 <br /> <br />
@@ -27,10 +27,7 @@ The dashboard provides the key findings as follows: (for example)
 
 ## 4. About the programming
 
-### 4.1 Files
-* Tableau dashboard is pulished in [Tableau public link](https://public.tableau.com/shared/74XPCMHWD?:display_count=n&:origin=viz_share_link)
-* The data manipulation is perfomed by this [SQL query](https://github.com/PoonAthitS/mountain-project-website-analysis/blob/main/sql_query_mountain_project.sql)
-### 4.2 Data
+### Data
 The Raw data are gathered from [Kaggle Mountain Project dataset](https://www.kaggle.com/pdegner/mountain-project-rotues-and-forums) which is scraped from Mountain Project website in 2020 by Patricia. Please check out her [GitHub project](https://github.com/pdegner/MP_Sentiment_Analysis) which is about analyzing the sentiment of the forums on www.MountainProject.com to determine which climbing gear is thought to be the best
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
